@@ -37,6 +37,7 @@ Ao final deve se exibir uma mensagem:
   ex: mago atacou usando magia
   guerreiro atacou usando espada
 
-### Resolução
+## Resolução
+
 - Resolução 01 - Usei estruturas condicionais e estruturas de decisão. Também fiz duas funções e a própria classe Hero. </br>
 - Resolução 02 - Usei JSON para criar um objeto que recebe os tipos de ataque, esse objeto está dentro de uma função. Também fiz a classe Hero junto com um método atacar. Essa resolução é mais otimizada do que a primeira, sem repetir muitas linhas de código.
